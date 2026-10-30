@@ -1,0 +1,24 @@
+{
+  "source": "The-Studio-of-Sadiq/SAEngine",
+  "commit": "2bcc31461e8b352dd30bb8fa107e0eb1e774202c",
+  "mirrored": "2026-10-30T19:40:04Z",
+  "paths": [
+    "python/src/saengine/design/steel",
+    "python/src/saengine/design/steel_design.py",
+    "python/src/saengine/design/steel_proposal.py",
+    "python/src/saengine/design/steel_connections.py",
+    "python/src/saengine/library/steel_sections.py",
+    "python/src/saengine/drawings/sheets/steel.py",
+    "python/src/saengine/verification/cases/steel.py",
+    "python/tests/test_design_steel.py",
+    "python/tests/test_design_steel_connections.py",
+    "python/tests/test_design_steel_frame.py",
+    "python/tests/test_design_steel_proposal.py",
+    "python/tests/test_drawings_steel.py",
+    "python/tests/test_steel_integration.py",
+    "python/tests/test_steel_sections.py",
+    "workbench/src/vs/workbench/contrib/saengineFem/browser/femSteelDesign.ts",
+    "workbench/src/vs/workbench/contrib/saengineFem/test/browser/femSteelDesign.test.ts",
+    "docs/images/steel-drawings"
+  ]
+}
